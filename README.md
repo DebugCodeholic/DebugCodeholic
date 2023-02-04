@@ -1,12 +1,7 @@
 - 👋 Hi, I’m Raven
-- 
 - 👀 I’m interested in learning how to code, i am a beginner trying to change the world
-- 
 - 🌱 I’m currently learning the steps to code and hoping to grow with it 
-
-- 💞️ I’m looking to collaborate on not sure what yet really
-- 
-- 📫 How to reach me at
+- 📫 reach me at
 
  email   - ravenmccloud@gmail.com pls do reach me out :)
  discord - abecd#2110
